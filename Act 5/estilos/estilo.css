@@ -1,0 +1,63 @@
+.Horario{color: white ; background-color:#B40B4D;
+
+}
+body{
+    font-family:'Montserrat', sans-serif;
+    text-align: center;
+}
+.dia{
+    color: white; background-color: #00FFEA ;
+}
+.hora{
+    color: black; background-color: #FFC600;
+}
+.tabla-horario th, .tabla-horario td {
+    border: 1px solid black;
+}
+.tabla-horario{
+    border-collapse: collapse;
+}
+.mates{
+    background-color: #0028E3 ;
+    color: white;
+}
+.valen{ 
+    background-color: #FF7F00 ;
+}
+.caste{ 
+    background-color: #FF0000 ;
+    color: white;
+}
+.bio{
+    background-color: #98FF00 ;
+
+}
+.gyh{
+    background-color: #007424;
+} 
+.ingles {
+    background-color: #AD7777 ;
+    color: #0028E3;
+}
+.info{
+    background-color: #000000;
+    color: white;
+}
+.ef{
+    background-color: #008573;
+}
+.io{
+    background-color: #8F0097;
+    color: white;
+}
+.fiq{
+    background-color: #E6FF15;
+    color: #008573;
+}
+.reli{
+    background-color: #8AF1FF;
+}   
+.tuto{
+    background-color: #212557 ;
+    color: white;
+}
